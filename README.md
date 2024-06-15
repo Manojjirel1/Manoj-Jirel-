@@ -9,11 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: white;
+            color: black
         }
         header {
-            background-color: #333;
+            background-color: black;
             color: white;
             padding: 1rem 0;
             text-align: center;
@@ -33,7 +33,7 @@
             margin: auto;
         }
         footer {
-            background-color: #333;
+            background-color: #black;
             color: white;
             text-align: center;
             padding: 1rem 0;
