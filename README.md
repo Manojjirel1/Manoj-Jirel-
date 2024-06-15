@@ -1,5 +1,3 @@
-# Manoj-Jirel-
-My name is Manoj jirel And I'm interest in photography 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,8 +71,8 @@ My name is Manoj jirel And I'm interest in photography
     <section id="contact">
         <h2>Contact</h2>
         <p>If you'd like to get in touch, you can reach me at:</p>
-        <p>Email: manoj.jirel@example.com</p>
-        <p>Phone: +977-123456789</p>
+        <p>Email: manojjirel84@gmail.com</p>
+        <p>Phone: +977-9841155538</p>
     </section>
     <footer>
         <p>&copy; 2024 Manoj Jirel. All rights reserved.</p>
